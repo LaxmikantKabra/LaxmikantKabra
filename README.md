@@ -6,7 +6,7 @@
 - 💻 Passionate about data, ML, visualization, and stats; love building and analyzing data pipelines.
 - 🚀 Seeking roles in data analytics, data engineering, or data science to drive industry growth and innovation.
 - 📈 Excited to discuss my projects and explore how I can contribute.
-- 📄 [Check out my resume](https://drive.google.com/file/d/10xupzqO9jOQMmNlTFzxYsoVmvhhHnu3X/preview)
+- 📄 [Check out my resume]([https://drive.google.com/file/d/10xupzqO9jOQMmNlTFzxYsoVmvhhHnu3X/preview](https://www.linkedin.com/in/laxmikant-kabra/overlay/1727507312006/single-media-viewer/?profileId=ACoAAD2bMFIBRPC2j1NRvB6SeGe8cPEr3Gs0K7M))
 
 ## Connect with Me 🌐
 
