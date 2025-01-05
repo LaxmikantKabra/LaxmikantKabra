@@ -12,7 +12,7 @@
 
 Discover more about my work and connect through these platforms:
 
-- 🌍 **Personal Portfolio:** [Explore my projects and journey](https://laxmikantkabra.github.io/portfolio/)
+- 🌍 **Personal Portfolio:** [Explore my projects and journey](https://laxmikantmkabra.com/)
 - 💼 **LinkedIn:** [Professional network and updates](https://www.linkedin.com/in/laxmikant-kabra/)
 - ✍️ **Medium Blog:** [Insights and articles](https://medium.com/@laxmikantmkabra)
 - 📧 **Email:** laxmikantmkabra@gmail.com
